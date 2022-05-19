@@ -11,6 +11,8 @@ The Sigma Device iOS SDK provides a framework for adding device fingerprinting i
 
 You can install the Sigma Device iOS SDK using CocoaPods or by manually downloading and installing it. We recommend that you use CocoaPods.
 
+NOTE: You must be logged into github.com to download the SDK.
+
 To install the SDK using CocoaPods, add the following lines to your Podfile:
 
 ```
